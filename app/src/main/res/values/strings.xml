@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tugas3_radityacandra_39511</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_maps">Activity Maps</string>
+    <string name="title_activity_activity_browser">Activity Browser</string>
+    <string name="title_activity_activity_phone">Activity Phone</string>
+</resources>
